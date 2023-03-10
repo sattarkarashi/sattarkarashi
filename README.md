@@ -9,8 +9,8 @@
 - ⚡ Fun fact: I like farming and hiking. 
 
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,react,Teal)](https://skillicons.dev)
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,react)](https://skillicons.dev)
 
 
 
