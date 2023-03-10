@@ -1,5 +1,4 @@
-### Howdy, I'm a Python developer with a wicked sense of curiosity and a passion for making cool things! 👋
-
+### 👋 Howdy, I'm a Python developer with a wicked sense of curiosity and a passion for making cool things! 
 <!--
 **sattarkarashi/sattarkarashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
