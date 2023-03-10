@@ -10,11 +10,15 @@
 ### My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c#,js,html,css,python,django,react" />
+    <img src="https://skillicons.dev/icons?i=git,docker" />
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+[![My Skills](https://skillicons.dev/icons?i=,c#,js,html,css,python,django,react](https://skillicons.dev)
+  </a>
+</p>
 
 
 
