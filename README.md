@@ -2,8 +2,6 @@
 <!--
 **sattarkarashi/sattarkarashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 
 - 🌱 I’m I'm a Python developer with a wicked sense of curiosity and a passion for making cool things.
 - 🔭 I’m currently working on ...
