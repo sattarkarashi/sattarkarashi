@@ -17,7 +17,7 @@
 <p align="center">
  
 [![My Skills](https://skillicons.dev/icons?i=,c#,js,html,css,python,django,react](https://skillicons.dev)
-  </a>
+
 </p>
 
 
