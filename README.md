@@ -14,9 +14,9 @@
   </a>
 </p>
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,react](https://skillicons.dev)
+
 
 
 
