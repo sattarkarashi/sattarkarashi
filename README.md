@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy, I'm a Python developer with a wicked sense of curiosity and a passion for making cool things! I've been at it for +3 years now, and I'm always eager to explore new tech and put it to work. I've got a knack for tackling big data and data-driven projects, and I'm a pro at problem-solving. Let's innovate together!👋
 
 <!--
 **sattarkarashi/sattarkarashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
