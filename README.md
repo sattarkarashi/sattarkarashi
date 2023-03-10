@@ -7,10 +7,14 @@
 - 👯 When I'm not busy saving the world from imminent doom, I like to spend my free time collaborating on open source projects. Just doing my part to make the world a better place, one code contribution at a time!
 - 💬 Ask me about Teal · Solidity · JavaScript · React.js · Python (Programming Language) · Django
 - ⚡ Fun fact: I like farming and hiking. 
-
-
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,react)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c#,js,html,css,python,django,react" />
+  </a>
+</p>
+
+
 
 
 
