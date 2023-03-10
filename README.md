@@ -7,10 +7,17 @@
 - 👯 When I'm not busy saving the world from imminent doom, I like to spend my free time collaborating on open source projects. Just doing my part to make the world a better place, one code contribution at a time!
 - 💬 Ask me about Teal · Solidity · JavaScript · React.js · Python (Programming Language) · Django
 - ⚡ Fun fact: I like farming and hiking. 
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+
+
+
 <!--
 **sattarkarashi/sattarkarashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+        
           
 
