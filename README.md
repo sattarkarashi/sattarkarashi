@@ -8,13 +8,13 @@
 - 💬 Ask me about Teal · Solidity · JavaScript · React.js · Python (Programming Language) · Django
 - ⚡ Fun fact: I like farming and hiking. 
 ### My Skills
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker" />
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,django,python,react)](https://skillicons.dev)
  
 
 
